@@ -22,6 +22,8 @@ gem 'mini_magick', '3.8.0'
 
 gem 'devise'
 
+gem 'gravtastic'
+
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
