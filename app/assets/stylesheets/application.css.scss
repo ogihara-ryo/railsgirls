@@ -25,11 +25,10 @@ nav.navbar {
   background-image: none;
 }
 
-.navbar a.navbar-brand { font-size: 18px; }
-.navbar a.navbar-brand:hover {
-  color: #fff;
-  background-color: transparent;
-  text-decoration: none;
+nav#navbar.navbar {
+  a, .navbar-text { color: #fff; }
+  a:hover { text-decoration: underline; }
+  nav#navbar.navbar a.navbar-brand:hover { text-decoration: none; }
 }
 
 .container a:hover {
