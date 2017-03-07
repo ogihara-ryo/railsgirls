@@ -1,6 +1,6 @@
 class User < ApplicationRecord
   include Gravtastic
-  gravtastic
+  gravtastic size: 24
 
   # Include default devise modules. Others available are:
   # :confirmable, :lockable, :timeoutable and :omniauthable
