@@ -25,8 +25,8 @@ nav.navbar {
   background-image: none;
 }
 
-.navbar a.brand { font-size: 18px; }
-.navbar a.brand:hover {
+.navbar a.navbar-brand { font-size: 18px; }
+.navbar a.navbar-brand:hover {
   color: #fff;
   background-color: transparent;
   text-decoration: none;
