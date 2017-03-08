@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: hhxkh1xml
+  api_key: '817627827324574'
+  api_secret: 4Sp7CCmHb2mEYzaZK6Q2V--l5TM
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: hhxkh1xml
+  api_key: '817627827324574'
+  api_secret: 4Sp7CCmHb2mEYzaZK6Q2V--l5TM
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: hhxkh1xml
+  api_key: '817627827324574'
+  api_secret: 4Sp7CCmHb2mEYzaZK6Q2V--l5TM
+  enhance_image_tag: true
+  static_image_support: false
