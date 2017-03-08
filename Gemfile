@@ -18,6 +18,7 @@ group :production do
 end
 
 gem 'carrierwave'
+gem 'cloudinary'
 gem 'mini_magick', '3.8.0'
 
 gem 'devise'
